@@ -1,0 +1,108 @@
+		Employee Table
+
+First	    Last
+Name	    Name	           Gender        Tenure   Rate          Salary
+_________________________________________________________
+Howard	    Starr    	 M	      8	   H	      30.0
+Joan	    Jacobus    	 F	      9	   W	      925.0
+David	    Renn    	 M	      3	   H	      4.75
+Albert	    Cahana    	 M	      3	   H	      18.75
+Douglas	    Sheer    	 M	      5	   W	      250.0
+Shari	    Buchman    	 F	      9	   W	      325.0
+Sara	    Jones    	 F	      1	   H	      7.5
+Ricky	    Mofsen    	 M	      6	   H	      12.5
+Jean	    Brennan    	 F	      6	   H	      5.4
+Deborah	    Starr    	 F	      3	   W	      1000.0
+Jamie	    Michaels    	 F	      8	   W	      150.0
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+Amount of Employees on Payroll: 11
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+Women on Payroll: 
+
+Joan	    Jacobus
+Shari	    Buchman
+Sara	    Jones
+Jean	    Brennan
+Deborah	    Starr
+Jamie	    Michaels
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+Employees Who Make Over $35k With At Least 5 Years Tenure: 
+
+Joan	    Jacobus
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+Employees Who Make Under $10/Hr or $350/Week Get a Raise 
+
+First	    Last
+Name	    Name	           Salary
+__________________________________
+David	    Renn		5.5
+Douglas	    Sheer		300.0
+Shari	    Buchman  	375.0
+Sara	    Jones		8.25
+Jean	    Brennan  	6.15
+Jamie	    Michaels 	200.0
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+Alphabetical List of Employees
+
+First	    Last
+Name	    Name	           Salary
+__________________________________
+Jean	    Brennan  	6.15
+Shari	    Buchman  	375.0
+Albert	    Cahana  	18.75
+Joan	    Jacobus  	925.0
+Sara	    Jones		8.25
+Jamie	    Michaels 	200.0
+Ricky	    Mofsen  	12.5
+David	    Renn		5.5
+Douglas	    Sheer		300.0
+Deborah	    Starr		1000.0
+Howard	    Starr		30.0
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+   **New Hires Added**
+Alphabetical List of Employees
+
+First	    Last
+Name	    Name	 
+________________________
+Barry	    Allen
+Jean	    Brennan
+Shari	    Buchman
+Albert	    Cahana
+Joan	    Jacobus
+Sara	    Jones
+Jamie	    Michaels
+Ricky	    Mofsen
+Nina	    Pinella
+David	    Renn
+Douglas	    Sheer
+Deborah	    Starr
+Howard	    Starr
+Lane	    Wagger
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+**Fired Employees Removed**
+Alphabetical List of Employees
+
+First	    Last
+Name	    Name	 
+________________________
+Barry	    Allen
+Shari	    Buchman
+Albert	    Cahana
+Joan	    Jacobus
+Sara	    Jones
+Jamie	    Michaels
+Nina	    Pinella
+David	    Renn
+Douglas	    Sheer
+Deborah	    Starr
+Howard	    Starr
+Lane	    Wagger
